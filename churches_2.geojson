@@ -1,0 +1,917 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1,
+        "NAME": "Capeharts Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.78994650594804,
+          36.054323526921735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2,
+        "NAME": "Riverside Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.764113549475,
+          36.107378914242794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3,
+        "NAME": "Cedar Fork Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9805066528459,
+          36.018211627425174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4,
+        "NAME": "Macedonia Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0121739234692,
+          35.988489356469394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 5,
+        "NAME": "Beacon Light Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01439626533734,
+          35.987933889876984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 6,
+        "NAME": "Indian Woods Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06967601057484,
+          35.968211528004225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7,
+        "NAME": "Saint Francis Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02022967372895,
+          35.94043392927905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 8,
+        "NAME": "Siloam Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01134031242132,
+          35.93237851620064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 9,
+        "NAME": "Roundtree Temple",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.92161945103761,
+          36.230710233494776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 10,
+        "NAME": "Saint Marks Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89717335524725,
+          36.158210940650136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 11,
+        "NAME": "Holly Grove Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95967462109462,
+          36.14848812092706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 12,
+        "NAME": "Piney Wood Chapel",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95967492840559,
+          36.175154593059645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 13,
+        "NAME": "Peterson Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7413329239554,
+          36.00154640531152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 14,
+        "NAME": "Oxley Hill Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.73911137458916,
+          36.03960158766522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 15,
+        "NAME": "Mars Hill Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87356247346517,
+          36.20321089351694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 16,
+        "NAME": "Wynns Grove Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.84245002971359,
+          36.17098902254561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 17,
+        "NAME": "Mount Olive Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.83133890712982,
+          36.18071143829045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 18,
+        "NAME": "Zion Hill Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.77661526486654,
+          36.18043408318507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 19,
+        "NAME": "Wakelon Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.82883847507986,
+          36.15987808356552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 20,
+        "NAME": "Mount Olivet Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.79383712846837,
+          36.138211835243354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 21,
+        "NAME": "Bethany Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.80494842997355,
+          36.13404525462258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 22,
+        "NAME": "New Holly Grove Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.81522843746579,
+          36.22876658298338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 23,
+        "NAME": "Elm Grove Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.90661762832532,
+          36.13848868073508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24,
+        "NAME": "Saint Matthews Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97217370331249,
+          36.062377728883746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25,
+        "NAME": "Aulander Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.10773557371554,
+          36.21932058160823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26,
+        "NAME": "Beautiful Zion Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.20496010906767,
+          36.14070996966355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27,
+        "NAME": "Bethel Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94411818090181,
+          36.11098863590374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28,
+        "NAME": "Cashie Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.86355751431755,
+          35.916823855295064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29,
+        "NAME": "Cedar Landing Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.92717081549137,
+          35.92987899024693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30,
+        "NAME": "Center Grove Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00134326539597,
+          36.214598413856535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 31,
+        "NAME": "Community Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.90550355015537,
+          35.93376803989875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 32,
+        "NAME": "Conconary Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06828940104063,
+          36.18959852326016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 33,
+        "NAME": "Connaritsa Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07412291096357,
+          36.190154160253726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 34,
+        "NAME": "Ebenezer Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02273156832901,
+          36.11682150518359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 35,
+        "NAME": "Edgewood Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95661724007209,
+          36.02932274786525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 36,
+        "NAME": "Evening Light Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00661957411374,
+          36.099599434099126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 37,
+        "NAME": "Faith Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93606061998493,
+          35.990434207349914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 38,
+        "NAME": "Greens Cross Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88939304690307,
+          36.01765645966253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 39,
+        "NAME": "Lawrence Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8455019146011,
+          35.953212695360854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 40,
+        "NAME": "Luella Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.15468069315926,
+          36.15098762805381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 41,
+        "NAME": "Mount Ararat Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03578685904571,
+          36.060988591442865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 42,
+        "NAME": "Mount Herman Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03050938037721,
+          36.11182151476905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 43,
+        "NAME": "Mount Joy Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.14995718765255,
+          36.024599741991054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 44,
+        "NAME": "Mount Olive Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.11245658262642,
+          36.09793273099465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 45,
+        "NAME": "Mount Pleasant Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87078015160412,
+          35.92432378823046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 46,
+        "NAME": "Peace and Glory Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.90855892546533,
+          35.91599021470593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 47,
+        "NAME": "Pleasant Oak Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95633859328994,
+          35.95210090820129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 48,
+        "NAME": "Ross Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89328296044087,
+          36.07876709999787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 49,
+        "NAME": "Saint James Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95300531970845,
+          35.96626755927371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 50,
+        "NAME": "Saint Lukes Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.80300024739859,
+          35.9332131189659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 51,
+        "NAME": "Saint Lukes Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.16940299366034,
+          36.11265464021352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 52,
+        "NAME": "Saint Pauls Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.85133488955691,
+          35.90821298049033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 53,
+        "NAME": "Sandy Point Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.92300466208876,
+          35.989600836456866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 54,
+        "NAME": "Spring Hill Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.15829090858153,
+          36.04126617955004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 55,
+        "NAME": "Village Gate Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.19023683830717,
+          36.084321514419194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 56,
+        "NAME": "Weeping Mary Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.20023727912414,
+          36.09876576804284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 57,
+        "NAME": "Windsor Church",
+        "STCTYFIPS": "37015",
+        "ELEV_METER": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.92217130722901,
+          35.9901564609306
+        ]
+      }
+    }
+  ]
+}
