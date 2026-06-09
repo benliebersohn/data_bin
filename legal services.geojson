@@ -26,7 +26,8 @@
         "Friday": "9:00am–5:00pm",
         "Saturday": "Closed",
         "url": "https://www.aidslawpa.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 0
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +62,8 @@
         "Friday": "Digital Intake / Centralized Hotline Only.",
         "Saturday": "Digital Intake / Centralized Hotline Only.",
         "url": "http://www.aclupa.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 1
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +98,8 @@
         "Friday": "Variable Off-Site Clinics / Direct Referral.",
         "Saturday": "Variable Off-Site Clinics / Direct Referral.",
         "url": "http://www.clsphila.org",
-        "Other": null
+        "Other": null,
+        "FacilityID": 2
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +134,8 @@
         "Friday": "Variable Off-Site Clinics / Direct Referral.",
         "Saturday": "Variable Off-Site Clinics / Direct Referral.",
         "url": "https://www.cbap-phl.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 3
       },
       "geometry": {
         "type": "Point",
@@ -166,7 +170,8 @@
         "Friday": "Variable Off-Site Clinics / Direct Referral.",
         "Saturday": "Variable Off-Site Clinics / Direct Referral.",
         "url": "http://www.phillymediators.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 4
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +206,8 @@
         "Friday": "Digital Intake / Centralized Hotline Only.",
         "Saturday": "Digital Intake / Centralized Hotline Only.",
         "url": "http://www.disabilityrightspa.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 5
       },
       "geometry": {
         "type": "Point",
@@ -236,7 +242,8 @@
         "Friday": "Academic Calendar Dependent / Appointment Only",
         "Saturday": "Academic Calendar Dependent / Appointment Only",
         "url": "https://drexel.edu/law/academics/kline-difference/clinics/federal-litigation-and-appeals-clinic/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 6
       },
       "geometry": {
         "type": "Point",
@@ -271,7 +278,8 @@
         "Friday": "Digital Intake ",
         "Saturday": "Digital Intake ",
         "url": "http://www.elc-pa.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 7
       },
       "geometry": {
         "type": "Point",
@@ -306,7 +314,8 @@
         "Friday": "9:00am–5:00pm",
         "Saturday": "Closed",
         "url": "https://www.courts.phila.gov/ejc/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 8
       },
       "geometry": {
         "type": "Point",
@@ -341,7 +350,8 @@
         "Friday": "Pop-up-clinic dependent",
         "Saturday": "Pop-up-clinic dependent",
         "url": "https://www.episcopallegalaid.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 9
       },
       "geometry": {
         "type": "Point",
@@ -376,7 +386,8 @@
         "Friday": "Digital Intake",
         "Saturday": "Digital Intake",
         "url": "https://www.esperanza.us/eils/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 10
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +422,8 @@
         "Friday": "10:00 AM - 2:00PM",
         "Saturday": "Special",
         "url": "http://www.facetofacegermantown.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 11
       },
       "geometry": {
         "type": "Point",
@@ -446,7 +458,8 @@
         "Friday": "12:00pm-3:00pm",
         "Saturday": "N/A",
         "url": "N/A",
-        "Other": null
+        "Other": null,
+        "FacilityID": 12
       },
       "geometry": {
         "type": "Point",
@@ -481,7 +494,8 @@
         "Friday": "N/A",
         "Saturday": "N/A",
         "url": "http://hiaspa.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 13
       },
       "geometry": {
         "type": "Point",
@@ -516,7 +530,8 @@
         "Friday": "Variable Off-Site Clinics / Direct Referral.",
         "Saturday": "Variable Off-Site Clinics / Direct Referral.",
         "url": "http://www.haplegal.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 14
       },
       "geometry": {
         "type": "Point",
@@ -551,7 +566,8 @@
         "Friday": "9:00am-5:00pm",
         "Saturday": "9:00am-5:00pm",
         "url": "https://www.justiceatworklegalaid.org/grievance-procedure",
-        "Other": null
+        "Other": null,
+        "FacilityID": 15
       },
       "geometry": {
         "type": "Point",
@@ -586,7 +602,8 @@
         "Friday": "Form based",
         "Saturday": "Form based",
         "url": "http://www.jlc.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 16
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +638,8 @@
         "Friday": "N/A",
         "Saturday": "N/A",
         "url": "N/A",
-        "Other": null
+        "Other": null,
+        "FacilityID": 17
       },
       "geometry": {
         "type": "Point",
@@ -656,7 +674,8 @@
         "Friday": "Application based",
         "Saturday": "Application based",
         "url": null,
-        "Other": null
+        "Other": null,
+        "FacilityID": 18
       },
       "geometry": {
         "type": "Point",
@@ -691,7 +710,8 @@
         "Friday": "Institutional Mail-In / Crisis Hotline.",
         "Saturday": "Institutional Mail-In / Crisis Hotline.",
         "url": "http://www.ncdbw.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 19
       },
       "geometry": {
         "type": "Point",
@@ -726,7 +746,8 @@
         "Friday": "9:00am–5:00pm",
         "Saturday": "Closed",
         "url": "http://www.nationalitiesservice.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 20
       },
       "geometry": {
         "type": "Point",
@@ -761,7 +782,8 @@
         "Friday": "N/A",
         "Saturday": "N/A",
         "url": "http://www.phlp.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 21
       },
       "geometry": {
         "type": "Point",
@@ -796,7 +818,8 @@
         "Friday": "Appointment based",
         "Saturday": "Appointment based",
         "url": "http://www.pirclaw.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 22
       },
       "geometry": {
         "type": "Point",
@@ -831,7 +854,8 @@
         "Friday": "Digital Intake / Centralized Hotline Only.",
         "Saturday": "Digital Intake / Centralized Hotline Only.",
         "url": "http://www.innocenceprojectpa.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 23
       },
       "geometry": {
         "type": "Point",
@@ -866,7 +890,8 @@
         "Friday": "9:00am-5:00pm",
         "Saturday": "N/A",
         "url": "http://www.pailp.org/",
-        "Other": "Applicants only accepted through the mail"
+        "Other": "Applicants only accepted through the mail",
+        "FacilityID": 24
       },
       "geometry": {
         "type": "Point",
@@ -901,7 +926,8 @@
         "Friday": "Appointment based",
         "Saturday": "Appointment based",
         "url": "http://www.pmconline.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 25
       },
       "geometry": {
         "type": "Point",
@@ -936,7 +962,8 @@
         "Friday": "9:00am-4:00pm",
         "Saturday": "N/A",
         "url": "http://www.philadelphiabarlawyers.com",
-        "Other": null
+        "Other": null,
+        "FacilityID": 26
       },
       "geometry": {
         "type": "Point",
@@ -971,7 +998,8 @@
         "Friday": "Application based",
         "Saturday": "Application based",
         "url": "http://www.phillytenant.org",
-        "Other": null
+        "Other": null,
+        "FacilityID": 27
       },
       "geometry": {
         "type": "Point",
@@ -1006,7 +1034,8 @@
         "Friday": "Variable Off-Site Clinics / Direct Referral.",
         "Saturday": "Variable Off-Site Clinics / Direct Referral.",
         "url": "http://www.plsephilly.org",
-        "Other": null
+        "Other": null,
+        "FacilityID": 28
       },
       "geometry": {
         "type": "Point",
@@ -1041,7 +1070,8 @@
         "Friday": "N/A",
         "Saturday": "N/A",
         "url": "http://www.philalegal.org/",
-        "Other": "Residents or cases based in Philadelphia"
+        "Other": "Residents or cases based in Philadelphia",
+        "FacilityID": 29
       },
       "geometry": {
         "type": "Point",
@@ -1076,7 +1106,8 @@
         "Friday": "Appointment based",
         "Saturday": "Appointment based",
         "url": "https://pvla.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 30
       },
       "geometry": {
         "type": "Point",
@@ -1111,7 +1142,8 @@
         "Friday": "Variable Off-Site Clinics / Direct Referral.",
         "Saturday": "Variable Off-Site Clinics / Direct Referral.",
         "url": "https://www.phillyvip.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 31
       },
       "geometry": {
         "type": "Point",
@@ -1146,7 +1178,8 @@
         "Friday": "online intake form",
         "Saturday": "online intake form",
         "url": "http://rhls.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 32
       },
       "geometry": {
         "type": "Point",
@@ -1181,7 +1214,8 @@
         "Friday": "Academic Calendar Dependent / Appointment Only",
         "Saturday": "Academic Calendar Dependent / Appointment Only",
         "url": "https://camlaw.rutgers.edu/lawyering-program",
-        "Other": null
+        "Other": null,
+        "FacilityID": 33
       },
       "geometry": {
         "type": "Point",
@@ -1216,7 +1250,8 @@
         "Friday": "Closed",
         "Saturday": "Closed",
         "url": "http://seniorlawcenter.org/",
-        "Other": "Offer monthly clinics"
+        "Other": "Offer monthly clinics",
+        "FacilityID": 34
       },
       "geometry": {
         "type": "Point",
@@ -1251,7 +1286,8 @@
         "Friday": "9:00am-5:00pm",
         "Saturday": "N/A",
         "url": "https://www.sccalaw.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 35
       },
       "geometry": {
         "type": "Point",
@@ -1286,7 +1322,8 @@
         "Friday": "9:00am-12:00pm",
         "Saturday": "N/A",
         "url": "N/A",
-        "Other": null
+        "Other": null,
+        "FacilityID": 36
       },
       "geometry": {
         "type": "Point",
@@ -1321,7 +1358,8 @@
         "Friday": "Academic Calendar Dependent / Appointment Only",
         "Saturday": "Academic Calendar Dependent / Appointment Only",
         "url": "https://sites.temple.edu/tlao/for-our-clients/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 37
       },
       "geometry": {
         "type": "Point",
@@ -1356,7 +1394,8 @@
         "Friday": "9:00am-5:00pm",
         "Saturday": "N/A",
         "url": "http://www.rturn.net/",
-        "Other": "Offers workshops"
+        "Other": "Offers workshops",
+        "FacilityID": 38
       },
       "geometry": {
         "type": "Point",
@@ -1391,7 +1430,8 @@
         "Friday": "Appointment based",
         "Saturday": "Appointment based",
         "url": "http://www.pubintlaw.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 39
       },
       "geometry": {
         "type": "Point",
@@ -1426,7 +1466,8 @@
         "Friday": "Academic Calendar Dependent / Appointment Only",
         "Saturday": "Academic Calendar Dependent / Appointment Only",
         "url": "https://www.law.upenn.edu/clinic",
-        "Other": "Accepts cases by phone intake only, year-round except May through August. New cases accepted in September and January. Financial eligibility and case type screening required. Educational value is taken into consideration for law students."
+        "Other": "Accepts cases by phone intake only, year-round except May through August. New cases accepted in September and January. Financial eligibility and case type screening required. Educational value is taken into consideration for law students.",
+        "FacilityID": 40
       },
       "geometry": {
         "type": "Point",
@@ -1461,7 +1502,8 @@
         "Friday": "Academic Calendar Dependent / Appointment Only",
         "Saturday": "Academic Calendar Dependent / Appointment Only",
         "url": "http://www.law.villanova.edu/academics/clinical%20programs.aspx",
-        "Other": "Referrals & appointments required. No walk-ins. Cases are screened for case type & financial eligibility & are selected for their educational value to the student-lawyers. The office operates year-round but only accepts cases during the academic year."
+        "Other": "Referrals & appointments required. No walk-ins. Cases are screened for case type & financial eligibility & are selected for their educational value to the student-lawyers. The office operates year-round but only accepts cases during the academic year.",
+        "FacilityID": 41
       },
       "geometry": {
         "type": "Point",
@@ -1496,7 +1538,8 @@
         "Friday": "Academic Calendar Dependent / Appointment Only",
         "Saturday": "Academic Calendar Dependent / Appointment Only",
         "url": "https://delawarelaw.widener.edu/current-students/jd-academics/experiential-courses/clinics/",
-        "Other": "By phone, Monday through Friday 9:30am – 5pm. Client will speak with Clinic Director about situation to determine if Clinic can assist client."
+        "Other": "By phone, Monday through Friday 9:30am – 5pm. Client will speak with Clinic Director about situation to determine if Clinic can assist client.",
+        "FacilityID": 42
       },
       "geometry": {
         "type": "Point",
@@ -1531,7 +1574,8 @@
         "Friday": "9:00am-5:00pm",
         "Saturday": "N/A",
         "url": "http://www.womenagainstabuse.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 43
       },
       "geometry": {
         "type": "Point",
@@ -1566,7 +1610,8 @@
         "Friday": "12:00pm-2:00pm",
         "Saturday": "N/A",
         "url": "https://www.womenslawproject.org/",
-        "Other": null
+        "Other": null,
+        "FacilityID": 44
       },
       "geometry": {
         "type": "Point",
@@ -1601,7 +1646,8 @@
         "Friday": "Variable Off-Site Clinics / Direct Referral.",
         "Saturday": "Variable Off-Site Clinics / Direct Referral.",
         "url": "N/A",
-        "Other": null
+        "Other": null,
+        "FacilityID": 45
       },
       "geometry": {
         "type": "Point",
