@@ -1,0 +1,1615 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "AIDS Law Project of Pennsylvania",
+        "Legal Service": "Free HIV/AIDS advocacy",
+        "Area of Practice": "Discrimination// Health Care//Civil Law",
+        "Address": "1211 Chestnut Street\nSuite 600\nPhiladelphia, PA 19107",
+        "Nearest SEPTA Station": "13th St Station, Jefferson Station",
+        "Nearest Line(s)": "Market-Frankford Line, Trolleys, Regional Rail",
+        "lat": 39.95083572,
+        "long": -75.16074376,
+        "Language (Bilingual or more) Yes/No": true,
+        "Targeted Community": "People living with HIV and those affected by the epidemic",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 587-9377",
+        "Email": "intake@aidslawpa.org",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "9:00am–5:00pm",
+        "Tuesday": "9:00am–5:00pm",
+        "Wednesday": "9:00am–5:00pm",
+        "Thursday": "9:00am–5:00pm",
+        "Friday": "9:00am–5:00pm",
+        "Saturday": "Closed",
+        "url": "https://www.aidslawpa.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16074376,
+          39.95083572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "American Civil Liberties Union Foundation of Pennsylvania",
+        "Legal Service": "Civil Liberties and equality protection ",
+        "Area of Practice": "Protecting constitutional civil liberties",
+        "Address": "P.O. Box 60173\nPhiladelphia, PA 19102",
+        "Nearest SEPTA Station": "Suburban Station",
+        "Nearest Line(s)": "Regional Rail, Trolleys (at 19th St)",
+        "lat": 39.95417469,
+        "long": -75.1702297,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Pennsylvanians whose civil liberties are violated or threatened",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 592-1513",
+        "Email": "info@aclupa.org",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Digital Intake / Centralized Hotline Only.",
+        "Tuesday": "Digital Intake / Centralized Hotline Only.",
+        "Wednesday": "Digital Intake / Centralized Hotline Only.",
+        "Thursday": "Digital Intake / Centralized Hotline Only.",
+        "Friday": "Digital Intake / Centralized Hotline Only.",
+        "Saturday": "Digital Intake / Centralized Hotline Only.",
+        "url": "http://www.aclupa.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1702297,
+          39.95417469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Community Legal Services of Philadelphia",
+        "Legal Service": "Civil legal advocacy for low-income ",
+        "Area of Practice": "Housing//Governmental Benefits//Utilities",
+        "Address": "1424 Chestnut Street\nPhiladelphia, PA 19102-2505",
+        "Nearest SEPTA Station": "15th St Station & City Hall",
+        "Nearest Line(s)": "Market-Frankford Line, Broad St Line",
+        "lat": 39.95107783,
+        "long": -75.16517099,
+        "Language (Bilingual or more) Yes/No": true,
+        "Targeted Community": "Low-income residents of Philadelphia (125% FPL or below)",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 981-3700",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Variable Off-Site Clinics / Direct Referral.",
+        "Tuesday": "Variable Off-Site Clinics / Direct Referral.",
+        "Wednesday": "Variable Off-Site Clinics / Direct Referral.",
+        "Thursday": "Variable Off-Site Clinics / Direct Referral.",
+        "Friday": "Variable Off-Site Clinics / Direct Referral.",
+        "Saturday": "Variable Off-Site Clinics / Direct Referral.",
+        "url": "http://www.clsphila.org",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16517099,
+          39.95107783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Consumer Bankruptcy Assistance Project",
+        "Legal Service": "Legal representation to low-income ",
+        "Area of Practice": "Consumer debt and Chapter 7 bankruptcy",
+        "Address": "718 Arch Street\nSuite 300N\nPhiladelphia, PA 19106",
+        "Nearest SEPTA Station": "8th St Station",
+        "Nearest Line(s)": "Market-Frankford Line, Broad-Ridge Spur",
+        "lat": 39.95308945,
+        "long": -75.15239454,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Low-income Philadelphia residents seeking Chapter 7 bankruptcy",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 523-9511",
+        "Email": "info@cbap-phl.org",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Variable Off-Site Clinics / Direct Referral.",
+        "Tuesday": "Variable Off-Site Clinics / Direct Referral.",
+        "Wednesday": "Variable Off-Site Clinics / Direct Referral.",
+        "Thursday": "Variable Off-Site Clinics / Direct Referral.",
+        "Friday": "Variable Off-Site Clinics / Direct Referral.",
+        "Saturday": "Variable Off-Site Clinics / Direct Referral.",
+        "url": "https://www.cbap-phl.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15239454,
+          39.95308945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "CORA Good Shepherd Mediation",
+        "Legal Service": "Social justice, and reconciliation",
+        "Area of Practice": "Youth services//restorativs justice practices",
+        "Address": "8540 Verree Road\nPhiladelphia, PA 19111",
+        "Nearest SEPTA Station": "Fox Chase Station",
+        "Nearest Line(s)": "Regional Rail (Fox Chase Line)",
+        "lat": 40.08172637,
+        "long": -75.06821779,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Individuals, families, community groups, and organizations in conflict",
+        "Business Type": "Mediation Center",
+        "Business Phone Number": "(215) 843-5413",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Variable Off-Site Clinics / Direct Referral.",
+        "Tuesday": "Variable Off-Site Clinics / Direct Referral.",
+        "Wednesday": "Variable Off-Site Clinics / Direct Referral.",
+        "Thursday": "Variable Off-Site Clinics / Direct Referral.",
+        "Friday": "Variable Off-Site Clinics / Direct Referral.",
+        "Saturday": "Variable Off-Site Clinics / Direct Referral.",
+        "url": "http://www.phillymediators.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.06821779,
+          40.08172637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Disability Rights Pennsylvania",
+        "Legal Service": "Disability advocacy against discrimination and segregation",
+        "Area of Practice": "Disability discrimination",
+        "Address": "1800 John F. Kennedy Boulevard\nSuite 900\nPhiladelphia, PA 19103-7403",
+        "Nearest SEPTA Station": "Suburban Station",
+        "Nearest Line(s)": "Regional Rail, Trolleys (at 19th St)",
+        "lat": 39.95414435,
+        "long": -75.17000336,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Adults and children with disabilities across Pennsylvania",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 238-8070",
+        "Email": "intake@disabilityrightspa.org",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Digital Intake / Centralized Hotline Only.",
+        "Tuesday": "Digital Intake / Centralized Hotline Only.",
+        "Wednesday": "Digital Intake / Centralized Hotline Only.",
+        "Thursday": "Digital Intake / Centralized Hotline Only.",
+        "Friday": "Digital Intake / Centralized Hotline Only.",
+        "Saturday": "Digital Intake / Centralized Hotline Only.",
+        "url": "http://www.disabilityrightspa.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17000336,
+          39.95414435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Drexel University Thomas R. Kline School of Law, Federal Lit. & Appeals Clinic",
+        "Legal Service": "Legal representation for immigation and deportation matters",
+        "Area of Practice": "Immigration-proceedings// Civil//Criminal",
+        "Address": "3320 Market Street\nSuite 411\nPhiladelphia, PA 19104",
+        "Nearest SEPTA Station": "34th St Station",
+        "Nearest Line(s)": "Market-Frankford Line",
+        "lat": 39.95556437,
+        "long": -75.19045449,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Indigent individuals needing federal appellate representation",
+        "Business Type": "Law School Clinic",
+        "Business Phone Number": "(215) 571-4709",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Academic Calendar Dependent / Appointment Only",
+        "Tuesday": "Academic Calendar Dependent / Appointment Only",
+        "Wednesday": "Academic Calendar Dependent / Appointment Only",
+        "Thursday": "Academic Calendar Dependent / Appointment Only",
+        "Friday": "Academic Calendar Dependent / Appointment Only",
+        "Saturday": "Academic Calendar Dependent / Appointment Only",
+        "url": "https://drexel.edu/law/academics/kline-difference/clinics/federal-litigation-and-appeals-clinic/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.19045449,
+          39.95556437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Education Law Center",
+        "Legal Service": "Access to quality education and advocacy for children living poverty",
+        "Area of Practice": "Equal Access//Stopping School-to-Prison pipeline//Fair Funding",
+        "Address": "1800 John F. Kennedy Blvd.\nSuite 1900A\nPhiladelphia, PA 19103",
+        "Nearest SEPTA Station": "Suburban Station",
+        "Nearest Line(s)": "Regional Rail, Trolleys (at 19th St)",
+        "lat": 39.9541279,
+        "long": -75.16998191,
+        "Language (Bilingual or more) Yes/No": true,
+        "Targeted Community": "Underserved children in Pennsylvania public schools",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 238-6970",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Digital Intake ",
+        "Tuesday": "Digital Intake ",
+        "Wednesday": "Digital Intake ",
+        "Thursday": "Digital Intake ",
+        "Friday": "Digital Intake ",
+        "Saturday": "Digital Intake ",
+        "url": "http://www.elc-pa.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16998191,
+          39.9541279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Elder Justice & Civil Resource Center",
+        "Legal Service": "Access to justice and aid self representation",
+        "Area of Practice": "Aging services// public interest communities",
+        "Address": "City Hall\nRoom 278\nPhiladelphia, PA 19107",
+        "Nearest SEPTA Station": "City Hall Station",
+        "Nearest Line(s)": "Broad Street Line, Market-Frankford Line",
+        "lat": 39.9529683,
+        "long": -75.16354103,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Philadelphians age 60 and over in civil court proceedings",
+        "Business Type": "Government Agency",
+        "Business Phone Number": "(215) 686-7027",
+        "Email": "elderresource@courts.phila.gov",
+        "Office Walk-ins (yes/no)": true,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "9:00am–5:00pm",
+        "Tuesday": "9:00am–5:00pm",
+        "Wednesday": "9:00am–5:00pm",
+        "Thursday": "9:00am–5:00pm",
+        "Friday": "9:00am–5:00pm",
+        "Saturday": "Closed",
+        "url": "https://www.courts.phila.gov/ejc/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16354103,
+          39.9529683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Episcopal Legal Aid of the Diocese of Pennsylvania",
+        "Legal Service": "Promotes access to justice",
+        "Area of Practice": "Pro bono civil legal services ",
+        "Address": "P.O. Box 434\n11 Booth Lane\nHaverford, PA 19041",
+        "Nearest SEPTA Station": "ELA Clinic",
+        "Nearest Line(s)": "ELA Clinic",
+        "lat": 40.01642916,
+        "long": -75.13423087,
+        "Language (Bilingual or more) Yes/No": true,
+        "Targeted Community": "Low-income Philadelphia and surrounding county residents",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(610) 709-6665",
+        "Email": "info@episcopallegalaid.org",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Pop-up-clinic dependent",
+        "Tuesday": "Pop-up-clinic dependent",
+        "Wednesday": "Pop-up-clinic dependent",
+        "Thursday": "Pop-up-clinic dependent",
+        "Friday": "Pop-up-clinic dependent",
+        "Saturday": "Pop-up-clinic dependent",
+        "url": "https://www.episcopallegalaid.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13423087,
+          40.01642916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Esperanza Immigration Legal Services",
+        "Legal Service": "Direct community education to contribute and participate in Society",
+        "Area of Practice": "Advocacy",
+        "Address": "4261 N. 5th Street\nPhiladelphia, PA 19140",
+        "Nearest SEPTA Station": "Erie Station",
+        "Nearest Line(s)": "Broad Street Line (BSL)",
+        "lat": 40.01640451,
+        "long": -75.13426306,
+        "Language (Bilingual or more) Yes/No": true,
+        "Targeted Community": "Underservered Immigrants",
+        "Business Type": "Non-profit",
+        "Business Phone Number": "(347) 719-1402",
+        "Email": "EILS@esperanza.us",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Digital Intake",
+        "Tuesday": "Digital Intake",
+        "Wednesday": "Digital Intake",
+        "Thursday": "Digital Intake",
+        "Friday": "Digital Intake",
+        "Saturday": "Digital Intake",
+        "url": "https://www.esperanza.us/eils/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13426306,
+          40.01640451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Face to Face Legal Center",
+        "Legal Service": "Free legal services to Germantown",
+        "Area of Practice": "Public benefits// utilities// credit problems// social security benefits//legal identification",
+        "Address": " 123 East Price Street Philadelphia, PA 19144",
+        "Nearest SEPTA Station": "Germantown Station",
+        "Nearest Line(s)": "Chestnut Hill East Line",
+        "lat": 40.03846709,
+        "long": -75.17438582,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Low income, unemployed, and homeless individuals",
+        "Business Type": "Non-profit",
+        "Business Phone Number": "(215) 438-1390",
+        "Email": "marykay@facetofacegermantown.org",
+        "Office Walk-ins (yes/no)": true,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "10:00 AM - 2:00PM",
+        "Tuesday": "N/A",
+        "Wednesday": "N/A",
+        "Thursday": "10:00 AM - 2:00PM",
+        "Friday": "10:00 AM - 2:00PM",
+        "Saturday": "Special",
+        "url": "http://www.facetofacegermantown.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17438582,
+          40.03846709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Family Court Help Center",
+        "Legal Service": "Voluteer attorneys and local law students to provide information and assitance with filing plreadings ",
+        "Area of Practice": "Child custody",
+        "Address": "1501 Arch Street\n11th Floor\nPhiladelphia, PA 19102",
+        "Nearest SEPTA Station": "City Hall Station",
+        "Nearest Line(s)": "Broad Street Line, Market-Frankford Line",
+        "lat": 39.95534475,
+        "long": -75.16512097,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Unrepresented litigants in custody proceedings",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "N/A",
+        "Email": "phillyhelpcenter@gmail.com",
+        "Office Walk-ins (yes/no)": true,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "12:00pm-3:00pm",
+        "Tuesday": "12:00pm-3:00pm",
+        "Wednesday": "12:00pm-3:00pm",
+        "Thursday": "12:00pm-3:00pm",
+        "Friday": "12:00pm-3:00pm",
+        "Saturday": "N/A",
+        "url": "N/A",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16512097,
+          39.95534475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "HIAS Pennsylvania",
+        "Legal Service": "Provide refugee resettlement, technical assitance, and social services to immigrants",
+        "Area of Practice": "Immigration and nationality matters",
+        "Address": "2100 Arch Street\n3rd Floor\nPhiladelphia, PA 19103",
+        "Nearest SEPTA Station": "Suburban Station",
+        "Nearest Line(s)": "Regional Rail",
+        "lat": 39.9558441,
+        "long": -75.17515703,
+        "Language (Bilingual or more) Yes/No": true,
+        "Targeted Community": "Indigent or low-income",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 832-0900",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "N/A",
+        "Tuesday": "N/A",
+        "Wednesday": "9:30am-12:00pm",
+        "Thursday": "2:00pm-4:30pm",
+        "Friday": "N/A",
+        "Saturday": "N/A",
+        "url": "http://hiaspa.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17515703,
+          39.9558441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Homeless Advocacy Project",
+        "Legal Service": "Civil legal services and advocacy ",
+        "Area of Practice": "benefit program eligibility: supplemental security income, temporary assistance for needy families, medical assistance, and food stamps. Veteran compensation, pension benefits, custody support, family law rights, accessing shelter, behavioral health services, and support services: replacing lost or stolen identity documents. Preserving private and subsidized housing eligibility and consumer rights protection.  ",
+        "Address": "1429 Walnut Street\n15th Floor\nPhiladelphia, PA 19102",
+        "Nearest SEPTA Station": "Walnut–Locust Station",
+        "Nearest Line(s)": "Broad Street Line",
+        "lat": 39.94989532,
+        "long": -75.16543409,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": " LSC income eligibility",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 523-9595",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Variable Off-Site Clinics / Direct Referral.",
+        "Tuesday": "Variable Off-Site Clinics / Direct Referral.",
+        "Wednesday": "Variable Off-Site Clinics / Direct Referral.",
+        "Thursday": "Variable Off-Site Clinics / Direct Referral.",
+        "Friday": "Variable Off-Site Clinics / Direct Referral.",
+        "Saturday": "Variable Off-Site Clinics / Direct Referral.",
+        "url": "http://www.haplegal.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16543409,
+          39.94989532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Justice at Work",
+        "Legal Service": "Direct Legal Services, community education, and advocacy.",
+        "Area of Practice": "Legal services and advocacy for low-wage workers in Pennsylvania, including wage theft, workers' rights violations, unsafe work conditions, substandard housing, workplace discrimination, retaliation, labor camp housing, and community legal education for farmworkers and mushroom workers.",
+        "Address": "990 Spring Garden Street\nSuite 300\nPhiladelphia, PA 19123",
+        "Nearest SEPTA Station": "Broad–Spring Garden Station",
+        "Nearest Line(s)": "Broad Street Line",
+        "lat": 39.96158052,
+        "long": -75.15416896,
+        "Language (Bilingual or more) Yes/No": true,
+        "Targeted Community": "Vulnerable low-wage farmworkers, mushroom workers, landscaping, and food processing workers. ",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 733-0878",
+        "Email": "jaw@justiceatworklegalaid.org",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "9:00am-5:00pm",
+        "Tuesday": "9:00am-5:00pm",
+        "Wednesday": "9:00am-5:00pm",
+        "Thursday": "9:00am-5:00pm",
+        "Friday": "9:00am-5:00pm",
+        "Saturday": "9:00am-5:00pm",
+        "url": "https://www.justiceatworklegalaid.org/grievance-procedure",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15416896,
+          39.96158052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Juvenile Law Center",
+        "Legal Service": "Juvenile Law Center advocates for rights, dignity, equity and opportunity for youth in the child welfare and justice systems.",
+        "Area of Practice": "Issues affecting older youth in foster care and youth in juvenile and criminal justice systems",
+        "Address": "1800 John F. Kennedy Boulevard\nSuite 1900B\nPhiladelphia, PA 19103",
+        "Nearest SEPTA Station": "Suburban Station",
+        "Nearest Line(s)": "Regional Rail",
+        "lat": 39.95419346,
+        "long": -75.17023927,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Children in justice systems and older youth foster care, and transitioning out of care",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 625-0551",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Form based",
+        "Tuesday": "Form based",
+        "Wednesday": "Form based",
+        "Thursday": "Form based",
+        "Friday": "Form based",
+        "Saturday": "Form based",
+        "url": "http://www.jlc.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17023927,
+          39.95419346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Legal Clinic for the Disabled",
+        "Legal Service": "Achieve inclusion, independence, and justice through free, quality legal assistance against issues impacting quality of life (independence and health).",
+        "Area of Practice": "Legal advice and representation for people with disabilities in consumer protection, advanced planning documents, family law, housing, and benefits.",
+        "Address": "1513 Race Street\nPhiladelphia, PA 19102",
+        "Nearest SEPTA Station": "15th St/City Hall Station",
+        "Nearest Line(s)": "Market-Frankford Line, Broad Street Line",
+        "lat": 39.95681533,
+        "long": -75.16518476,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "LCD service eligible",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 587-3158",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "9:00am-5:00pm",
+        "Tuesday": "9:00am-5:00pm",
+        "Wednesday": "N/A",
+        "Thursday": "N/A",
+        "Friday": "N/A",
+        "Saturday": "N/A",
+        "url": "N/A",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16518476,
+          39.95681533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Military Assistance Project",
+        "Legal Service": "Free legal services for active duty, reserve, and veteran military personnel and their families in consumer protection and veterans' administrative law.",
+        "Area of Practice": "Veterans",
+        "Address": "1101 Market Street, 11th Floor\nPhiladelphia, PA 19107",
+        "Nearest SEPTA Station": "11th Street Station",
+        "Nearest Line(s)": "Market-Frankford Line",
+        "lat": 39.95404646,
+        "long": -75.17465483,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Military/Veterans, Family members of deployed and mobilizing military personnel",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215)238-6388",
+        "Email": "lris@philabar.org ",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Application based",
+        "Tuesday": "Application based",
+        "Wednesday": "Application based",
+        "Thursday": "Application based",
+        "Friday": "Application based",
+        "Saturday": "Application based",
+        "url": null,
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17465483,
+          39.95404646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "National Clearinghouse for the Defense of Battered Women",
+        "Legal Service": "Legal defense and advocacy for battered women charged with crimes related to their abuse. No direct legal representation - provide technical assitance and support",
+        "Area of Practice": "Domestic violence and criminal defense.",
+        "Address": "125 S. 9th Street\nSuite 302\nPhiladelphia, PA 19107",
+        "Nearest SEPTA Station": "8th St Station",
+        "Nearest Line(s)": "Market-Frankford Line",
+        "lat": 39.94896585,
+        "long": -75.15547383,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Women defendants",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 351-0010",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Institutional Mail-In / Crisis Hotline.",
+        "Tuesday": "Institutional Mail-In / Crisis Hotline.",
+        "Wednesday": "Institutional Mail-In / Crisis Hotline.",
+        "Thursday": "Institutional Mail-In / Crisis Hotline.",
+        "Friday": "Institutional Mail-In / Crisis Hotline.",
+        "Saturday": "Institutional Mail-In / Crisis Hotline.",
+        "url": "http://www.ncdbw.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15547383,
+          39.94896585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Nationalities Service Center",
+        "Legal Service": "To provide legal, education, senior and social services to immigrants and refugees.",
+        "Area of Practice": "Immigration and refugee law.",
+        "Address": "1216 Arch Street\n4th Floor\nPhiladelphia, PA 19107",
+        "Nearest SEPTA Station": "11th St Station",
+        "Nearest Line(s)": "Market-Frankford Line",
+        "lat": 39.95411183,
+        "long": -75.16038927,
+        "Language (Bilingual or more) Yes/No": true,
+        "Targeted Community": "Low-income or indigent immigrants and refugees",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 893-8400",
+        "Email": "help@nscphila.org",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "9:00am–5:00pm",
+        "Tuesday": "9:00am–5:00pm",
+        "Wednesday": "9:00am–5:00pm",
+        "Thursday": "9:00am–5:00pm",
+        "Friday": "9:00am–5:00pm",
+        "Saturday": "Closed",
+        "url": "http://www.nationalitiesservice.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16038927,
+          39.95411183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Pennsylvania Health Law Project",
+        "Legal Service": "Legal advocacy for low-income consumers, elderly, and persons with disabilities accessing publicly funded healthcare coverage and services.",
+        "Area of Practice": "Legal advocacy in Medicaid eligibility, managed care, community-based waivers, CHIP, charitable health care obligations, and health care policy for low-income programs.",
+        "Address": "Corn Exchange Building, 123 Chestnut Street\nSuite 400\nPhiladelphia, PA 19106",
+        "Nearest SEPTA Station": "2nd St Station",
+        "Nearest Line(s)": "Market-Frankford Line",
+        "lat": 39.94860277,
+        "long": -75.14391455,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Persons seeking to qualify for Pennsylvania's Medicaid/Medical Assistance and CHIP",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 625-3990",
+        "Email": "staff@phlp.org",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "8:00am-8:00pm",
+        "Tuesday": "8:00am-8:00pm",
+        "Wednesday": "8:00am-8:00pm",
+        "Thursday": "N/A",
+        "Friday": "N/A",
+        "Saturday": "N/A",
+        "url": "http://www.phlp.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14391455,
+          39.94860277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Pennsylvania Immigration Resource Center",
+        "Legal Service": "Legal services, education, and advocacy for detained immigrants and survivors of violence in the community.",
+        "Area of Practice": "Immigration legal services in removal and deportation proceedings, asylum, and relief for survivors of violence including VAWA, T and U visas.",
+        "Address": "294 Pleasant Acres Rd, York, PA 17402",
+        "Nearest SEPTA Station": "N/A",
+        "Nearest Line(s)": "N/A",
+        "lat": 39.98900499,
+        "long": -76.64990446,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "FPL eligible",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(717) 600-8099",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Appointment based",
+        "Tuesday": "Appointment based",
+        "Wednesday": "Appointment based",
+        "Thursday": "Appointment based",
+        "Friday": "Appointment based",
+        "Saturday": "Appointment based",
+        "url": "http://www.pirclaw.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64990446,
+          39.98900499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Pennsylvania Innocence Project",
+        "Legal Service": "Legal advocacy to exonerate the wrongfully convicted, prevent wrongful convictions, and support exonerees in their transition to freedom.",
+        "Area of Practice": "Represents individuals convicted in Pennsylvania of crimes they did not commit, currently incarcerated or on probation with at least seven years remaining.",
+        "Address": "1515 Market Street\nSuite 300\nPhiladelphia, PA 19102\n",
+        "Nearest SEPTA Station": "15th Street, City Hall Station",
+        "Nearest Line(s)": "Market-Frankford Line, Broad Street Line",
+        "lat": 39.95311686,
+        "long": -75.16593582,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Pennsylvania Innocence Project reviewed",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 204-4255",
+        "Email": "info@painnocence.org",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Digital Intake / Centralized Hotline Only.",
+        "Tuesday": "Digital Intake / Centralized Hotline Only.",
+        "Wednesday": "Digital Intake / Centralized Hotline Only.",
+        "Thursday": "Digital Intake / Centralized Hotline Only.",
+        "Friday": "Digital Intake / Centralized Hotline Only.",
+        "Saturday": "Digital Intake / Centralized Hotline Only.",
+        "url": "http://www.innocenceprojectpa.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16593582,
+          39.95311686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Pennsylvania Institutional Law Project",
+        "Legal Service": "Free legal assistance in civil matters",
+        "Area of Practice": "Civil legal matters of incarcerated or institutionalized low-income people.",
+        "Address": "718 Arch Street\nSuite 304\nPhiladelphia, PA 19106",
+        "Nearest SEPTA Station": "8th St Station",
+        "Nearest Line(s)": "Market-Frankford Line, Broad-Ridge Spur",
+        "lat": 39.95296706,
+        "long": -75.1524241,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Low-income indivduals who have been incarcerated or institutionalized",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 925-2966",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "9:00am-5:00pm",
+        "Tuesday": "9:00am-5:00pm",
+        "Wednesday": "9:00am-5:00pm",
+        "Thursday": "9:00am-5:00pm",
+        "Friday": "9:00am-5:00pm",
+        "Saturday": "N/A",
+        "url": "http://www.pailp.org/",
+        "Other": "Applicants only accepted through the mail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1524241,
+          39.95296706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Pennsylvanians for Modern Courts",
+        "Legal Service": "Court watchdog advancing judicial reform, public confidence, and elimination of bias in Pennsylvania courts through advocacy, education, and policy reform.",
+        "Area of Practice": "Specializes in judicial discipline, court financing, judicial selection reform, jury system improvement, and elimination of bias in Pennsylvania courts.",
+        "Address": "Two Penn Center, 1500 John F. Kennedy Bouelvard\nSuite 1140\nPhiladelphia, PA 19102",
+        "Nearest SEPTA Station": "Walnut–Locust Station",
+        "Nearest Line(s)": "Broad Street Line",
+        "lat": 39.9536159,
+        "long": -75.16576722,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Pennsyvanian persons and businesses",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 569-1150",
+        "Email": "info@pmconline.org",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Appointment based",
+        "Tuesday": "Appointment based",
+        "Wednesday": "Appointment based",
+        "Thursday": "Appointment based",
+        "Friday": "Appointment based",
+        "Saturday": "Appointment based",
+        "url": "http://www.pmconline.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16576722,
+          39.9536159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Philadelphia Bar Association Lawyer Referral & Information Service",
+        "Legal Service": "Referrals to experienced, insured, and licensed private attorneys for those who can afford legal representation or have a contingent fee matter.",
+        "Area of Practice": "All civil and criminal matters",
+        "Address": "1101 Market Street\n10th Floor\nPhiladelphia, PA 19107",
+        "Nearest SEPTA Station": "11th St Station",
+        "Nearest Line(s)": "Market-Frankford Line",
+        "lat": 39.95231796,
+        "long": -75.15853693,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Modest Means Program eligible",
+        "Business Type": "Bar Association",
+        "Business Phone Number": "(215) 238-6333",
+        "Email": "LRIS@philabar.org",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "9:00am-4:00pm",
+        "Tuesday": "9:00am-4:00pm",
+        "Wednesday": "9:00am-4:00pm",
+        "Thursday": "9:00am-4:00pm",
+        "Friday": "9:00am-4:00pm",
+        "Saturday": "N/A",
+        "url": "http://www.philadelphiabarlawyers.com",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15853693,
+          39.95231796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Philadelphia Eviction Prevention Project's Help Center",
+        "Legal Service": "Free legal information, advice, and representation for low-income individuals facing eviction and rental housing issues in Philadelphia",
+        "Area of Practice": "Landlord tenant issues",
+        "Address": "Municipal Court, 1339 Chestnut Street\n10th Floor\nPhiladelphia, PA 19107",
+        "Nearest SEPTA Station": "11th St Station",
+        "Nearest Line(s)": "Market-Frankford Line",
+        "lat": 39.95106366,
+        "long": -75.16301482,
+        "Language (Bilingual or more) Yes/No": true,
+        "Targeted Community": "Philadelphians and whose income is 200% of the federal poverty level or below",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(267) 443-2500",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": true,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Application based",
+        "Tuesday": "Application based",
+        "Wednesday": "Application based",
+        "Thursday": "Application based",
+        "Friday": "Application based",
+        "Saturday": "Application based",
+        "url": "http://www.phillytenant.org",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16301482,
+          39.95106366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Philadelphia Lawyers for Social Equity",
+        "Legal Service": "Free legal advice and representation for low-income Philadelphians seeking expungements, pardons, and relief from criminal records through litigation, education, and advocacy.",
+        "Area of Practice": "Criminal records: removing them (expungements and pardons), and helping clients minimize the collateral damage they cause (employment, housing, credit, health care, etc)",
+        "Address": "1501 Cherry Street\nPhiladelphia, PA 19102",
+        "Nearest SEPTA Station": "Spring Garden Station (MFL) or Broad–Spring Garden Station (BSL)",
+        "Nearest Line(s)": "Market-Frankford Line, Broad Street Line",
+        "lat": 39.95634371,
+        "long": -75.16492752,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Income may be no greater than 200% of the Federal Poverty Guidelines",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(267) 519-5323",
+        "Email": "info@plsephilly.org",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Variable Off-Site Clinics / Direct Referral.",
+        "Tuesday": "Variable Off-Site Clinics / Direct Referral.",
+        "Wednesday": "Variable Off-Site Clinics / Direct Referral.",
+        "Thursday": "Variable Off-Site Clinics / Direct Referral.",
+        "Friday": "Variable Off-Site Clinics / Direct Referral.",
+        "Saturday": "Variable Off-Site Clinics / Direct Referral.",
+        "url": "http://www.plsephilly.org",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16492752,
+          39.95634371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Philadelphia Legal Assistance",
+        "Legal Service": "legal services, advice, and referrals for low-income individuals, with a focus on client education and empowerment.",
+        "Area of Practice": "Unemployment compensation, family law, housing, income taxes, public benefits, personal legal matters, and farmworker rights including employment discrimination, housing, and immigration relief.",
+        "Address": "718 Arch Street\nSuite 300N\nPhiladelphia, PA 19106-1535",
+        "Nearest SEPTA Station": "8th St Station",
+        "Nearest Line(s)": "Market-Frankford Line",
+        "lat": 39.95301129,
+        "long": -75.1523999,
+        "Language (Bilingual or more) Yes/No": true,
+        "Targeted Community": "Low-income",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 981-3800",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "9:30am-12:00pm",
+        "Tuesday": "9:30am-12:00pm",
+        "Wednesday": "9:30am-12:00pm",
+        "Thursday": "9:30am-12:00pm",
+        "Friday": "N/A",
+        "Saturday": "N/A",
+        "url": "http://www.philalegal.org/",
+        "Other": "Residents or cases based in Philadelphia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1523999,
+          39.95301129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Philadelphia Volunteer Lawyers for the Arts (PVLA)",
+        "Legal Service": "Free legal services, knowledge, and resources for underserved artists and arts organizations in the Philadelphia region.",
+        "Area of Practice": "Legal services for artists and arts organizations in intellectual property, copyright, contracts, nonprofit law, employment, immigration, tax, and a broad range of arts-related legal matters.",
+        "Address": "1315 Walnut Street\nSuite 300\nPhiladelphia, PA 19107",
+        "Nearest SEPTA Station": "Walnut–Locust Station",
+        "Nearest Line(s)": "Broad Street Line",
+        "lat": 39.94946429,
+        "long": -75.16296002,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Pro bono through PVLA",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(267) 416-8940",
+        "Email": "pvlalegal@pvla.org",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Appointment based",
+        "Tuesday": "Appointment based",
+        "Wednesday": "Appointment based",
+        "Thursday": "Appointment based",
+        "Friday": "Appointment based",
+        "Saturday": "Appointment based",
+        "url": "https://pvla.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16296002,
+          39.94946429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Philadelphia Volunteers for the Indigent Program ",
+        "Legal Service": "Volunteer legal services and access to justice for low-income Philadelphians through community resources.",
+        "Area of Practice": "Volunteer legal services in family law, housing, income maintenance, and community economic development for nonprofits and small businesses.",
+        "Address": "1500 Walnut Street\nSuite 400\nPhiladelphia, PA 19102",
+        "Nearest SEPTA Station": "Walnut–Locust Station",
+        "Nearest Line(s)": "Broad Street Line",
+        "lat": 39.94950882,
+        "long": -75.16624432,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Low-income individuals, nonprofits, and small businesses ",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 523-9550",
+        "Email": "phillyvip@phillyvip.org",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Variable Off-Site Clinics / Direct Referral.",
+        "Tuesday": "Variable Off-Site Clinics / Direct Referral.",
+        "Wednesday": "Variable Off-Site Clinics / Direct Referral.",
+        "Thursday": "Variable Off-Site Clinics / Direct Referral.",
+        "Friday": "Variable Off-Site Clinics / Direct Referral.",
+        "Saturday": "Variable Off-Site Clinics / Direct Referral.",
+        "url": "https://www.phillyvip.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16624432,
+          39.94950882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Regional Housing Legal Services",
+        "Legal Service": "Free legal services and technical assistance for affordable housing development, economic opportunity, and utility access in underserved Pennsylvania communities.",
+        "Area of Practice": "Legal services in affordable housing development, economic development, nonprofit law, and policy advocacy for low-income communities and community-based organizations in Pennsylvania.",
+        "Address": "2 S. Easton Road\nGlenside, PA 19038",
+        "Nearest SEPTA Station": "Glenside Station",
+        "Nearest Line(s)": "Regional Rail (Lansdale/Doylestown Line)",
+        "lat": 40.10182381,
+        "long": -75.1528887,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Lower-income organizations",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 572-7300",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "online intake form",
+        "Tuesday": "online intake form",
+        "Wednesday": "online intake form",
+        "Thursday": "online intake form",
+        "Friday": "online intake form",
+        "Saturday": "online intake form",
+        "url": "http://rhls.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1528887,
+          40.10182381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Rutgers-Camden School of Law",
+        "Legal Service": "Public interest ",
+        "Area of Practice": "General pro bono ",
+        "Address": "217 N. Fifth Street\nCamden, NJ 08102-1203",
+        "Nearest SEPTA Station": " 8th & Market Station",
+        "Nearest Line(s)": "PATCO Speedline",
+        "lat": 39.94760877,
+        "long": -75.12013589,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Public",
+        "Business Type": "Law School Clinic",
+        "Business Phone Number": "(856) 225-6608",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Academic Calendar Dependent / Appointment Only",
+        "Tuesday": "Academic Calendar Dependent / Appointment Only",
+        "Wednesday": "Academic Calendar Dependent / Appointment Only",
+        "Thursday": "Academic Calendar Dependent / Appointment Only",
+        "Friday": "Academic Calendar Dependent / Appointment Only",
+        "Saturday": "Academic Calendar Dependent / Appointment Only",
+        "url": "https://camlaw.rutgers.edu/lawyering-program",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.12013589,
+          39.94760877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "SeniorLAW Center",
+        "Legal Service": "Legal services, community education, and advocacy for older adults on local, state, and national levels.",
+        "Area of Practice": "Legal services for older adults in housing, elder abuse, domestic violence, family law, advance planning, and consumer protection statewide.",
+        "Address": "1650 Arch Street\nSuite 1820\nPhiladelphia, PA 19103",
+        "Nearest SEPTA Station": "15th St/City Hall Station",
+        "Nearest Line(s)": "Market-Frankford Line, Broad Street Line",
+        "lat": 39.95485438,
+        "long": -75.16780542,
+        "Language (Bilingual or more) Yes/No": true,
+        "Targeted Community": "Older individuals",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 988-1244",
+        "Email": "info@seniorlawcenter.org",
+        "Office Walk-ins (yes/no)": true,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "10:00am–12:00pm (phone)",
+        "Tuesday": "9:00am–12:00pm (walk-in); 10:00am–12:00pm (phone)",
+        "Wednesday": "9:00am–12:00pm (walk-in); 10:00am–12:00pm (phone)",
+        "Thursday": "9:00am–12:00pm (walk-in); 10:00am–12:00pm (phone)",
+        "Friday": "Closed",
+        "Saturday": "Closed",
+        "url": "http://seniorlawcenter.org/",
+        "Other": "Offer monthly clinics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16780542,
+          39.95485438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Support Center for Child Advocates",
+        "Legal Service": "Legal advocacy for child abuse and neglect victims to secure safety, justice, and permanent nurturing environments.",
+        "Area of Practice": "Pro bono legal and social service advocacy for abused and neglected children in civil dependency and criminal court proceedings.",
+        "Address": "1617 John F. Kennedy Boulevard\nSuite 1200\nPhiladelphia, PA 19103",
+        "Nearest SEPTA Station": "Suburban Station",
+        "Nearest Line(s)": "Regional Rail",
+        "lat": 39.95436611,
+        "long": -75.1673694,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Youth in need of support",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(267) 546-9200",
+        "Email": "frontdesk@sccalaw.org",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "9:00am-5:00pm",
+        "Tuesday": "9:00am-5:00pm",
+        "Wednesday": "9:00am-5:00pm",
+        "Thursday": "9:00am-5:00pm",
+        "Friday": "9:00am-5:00pm",
+        "Saturday": "N/A",
+        "url": "https://www.sccalaw.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1673694,
+          39.95436611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Temple University Beasley School of Law Elderly Law Project",
+        "Legal Service": "Legal assistance to senior citizens",
+        "Area of Practice": "Public benefits, Social security, SSI, Disability, Medicare, Medical Assistance, Food stamps, Veteran’s Benefits",
+        "Address": "1719 N. Broad Street\nPhiladelphia, PA 19122",
+        "Nearest SEPTA Station": "Cecil B. Moore Station",
+        "Nearest Line(s)": "Broad Street Line",
+        "lat": 39.98005996,
+        "long": -75.15692553,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "60 and over and live in Philadelphia.",
+        "Business Type": "Law School Clinic",
+        "Business Phone Number": "(215) 204-6887",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "9:00am-12:00pm",
+        "Tuesday": "9:00am-12:00pm",
+        "Wednesday": "9:00am-12:00pm",
+        "Thursday": "9:00am-12:00pm",
+        "Friday": "9:00am-12:00pm",
+        "Saturday": "N/A",
+        "url": "N/A",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15692553,
+          39.98005996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Temple University Beasley School of Law Legal Aid Office",
+        "Legal Service": "Free legal advice and representation in civil matters provided by supervised law students as a community service and clinical education program.",
+        "Area of Practice": "Family law litigation and legal advocacy for individuals with cancer, HIV, and physical disabilities in matters including custody, support, SSI, life planning, and medical insurance.",
+        "Address": "1719 North Broad Street\nPhiladelphia, PA 19122",
+        "Nearest SEPTA Station": "Cecil B. Moore Station",
+        "Nearest Line(s)": "Broad Street Line",
+        "lat": 39.98004352,
+        "long": -75.15687189,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Low-income",
+        "Business Type": "Law School Clinic",
+        "Business Phone Number": "( 215) 204-1800",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Academic Calendar Dependent / Appointment Only",
+        "Tuesday": "Academic Calendar Dependent / Appointment Only",
+        "Wednesday": "Academic Calendar Dependent / Appointment Only",
+        "Thursday": "Academic Calendar Dependent / Appointment Only",
+        "Friday": "Academic Calendar Dependent / Appointment Only",
+        "Saturday": "Academic Calendar Dependent / Appointment Only",
+        "url": "https://sites.temple.edu/tlao/for-our-clients/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15687189,
+          39.98004352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Tenant Union Representative Network",
+        "Legal Service": "Addressing various tenant issues for free.",
+        "Area of Practice": "Evictions, tenant unions, leasing and repairs",
+        "Address": "The Land Title Building, 100 S. Broad Street\n8th Floor\nPhiladelphia, PA 19110",
+        "Nearest SEPTA Station": "Walnut–Locust Station",
+        "Nearest Line(s)": "Broad Street Line",
+        "lat": 39.95174236,
+        "long": -75.1648194,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Tenants",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 940-3900",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": true,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "9:00am-5:00pm",
+        "Tuesday": "9:00am-5:00pm",
+        "Wednesday": "9:00am-5:00pm",
+        "Thursday": "9:00am-5:00pm",
+        "Friday": "9:00am-5:00pm",
+        "Saturday": "N/A",
+        "url": "http://www.rturn.net/",
+        "Other": "Offers workshops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1648194,
+          39.95174236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "The Public Interest Law Center",
+        "Legal Service": "Litigation, education, and advocacy to advance civil, social, and economic rights for communities facing discrimination, inequality, and poverty in the Philadelphia region.",
+        "Area of Practice": "Legal services in healthcare access, education equity, environmental justice, housing discrimination, employment rights, and voting rights for underserved communities in the Philadelphia region",
+        "Address": "1500 John F. Kennedy Bouelvard\nSuite 802\nPhiladelphia, PA 19102",
+        "Nearest SEPTA Station": "15th St/City Hall Station",
+        "Nearest Line(s)": "Market-Frankford Line, Broad Street Line",
+        "lat": 39.95372915,
+        "long": -75.16593082,
+        "Language (Bilingual or more) Yes/No": true,
+        "Targeted Community": "Low-income",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 627-7100",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Appointment based",
+        "Tuesday": "Appointment based",
+        "Wednesday": "Appointment based",
+        "Thursday": "Appointment based",
+        "Friday": "Appointment based",
+        "Saturday": "Appointment based",
+        "url": "http://www.pubintlaw.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16593082,
+          39.95372915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "University of Pennsylvania Law School Gittis Center for Clinical Legal Studies",
+        "Legal Service": "Clinical legal education program providing legal services to clients and underserved communities while training law students in professional skills and values.",
+        "Area of Practice": "Supervised student representation in housing, consumer debt, wage theft, employment, social security disability, civil rights, and civil forfeiture, with community legal education.",
+        "Address": "3501 Sansom Street\nPhiladelphia, PA 19104-6204",
+        "Nearest SEPTA Station": "34th St Station",
+        "Nearest Line(s)": "Market-Frankford Line",
+        "lat": 39.95405896,
+        "long": -75.1932583,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Low-income",
+        "Business Type": "Law School Clinic",
+        "Business Phone Number": "(215) 898-8427",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Academic Calendar Dependent / Appointment Only",
+        "Tuesday": "Academic Calendar Dependent / Appointment Only",
+        "Wednesday": "Academic Calendar Dependent / Appointment Only",
+        "Thursday": "Academic Calendar Dependent / Appointment Only",
+        "Friday": "Academic Calendar Dependent / Appointment Only",
+        "Saturday": "Academic Calendar Dependent / Appointment Only",
+        "url": "https://www.law.upenn.edu/clinic",
+        "Other": "Accepts cases by phone intake only, year-round except May through August. New cases accepted in September and January. Financial eligibility and case type screening required. Educational value is taken into consideration for law students."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1932583,
+          39.95405896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Villanova University Charles Widger School of Law, Villanova Clinical Program",
+        "Legal Service": "Free legal representation to individuals by law students working under close faculty supervision.",
+        "Area of Practice": "CARES (asylum) Clinic; Civil Justice Clinic; Clinic for Law & Entrepreneurship; Farmworker Legal Aid Clinic; Federal Tax Clinic; Health Law Clinic",
+        "Address": "299 North Spring Mill Road\nVillanova, PA 19085",
+        "Nearest SEPTA Station": "Villanova Station",
+        "Nearest Line(s)": "Regional Rail (Paoli/Thorndale Line)",
+        "lat": 40.03864168,
+        "long": -75.339065,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Under-represented individuals",
+        "Business Type": "Law School Clinic",
+        "Business Phone Number": "(610) 519-5894",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Academic Calendar Dependent / Appointment Only",
+        "Tuesday": "Academic Calendar Dependent / Appointment Only",
+        "Wednesday": "Academic Calendar Dependent / Appointment Only",
+        "Thursday": "Academic Calendar Dependent / Appointment Only",
+        "Friday": "Academic Calendar Dependent / Appointment Only",
+        "Saturday": "Academic Calendar Dependent / Appointment Only",
+        "url": "http://www.law.villanova.edu/academics/clinical%20programs.aspx",
+        "Other": "Referrals & appointments required. No walk-ins. Cases are screened for case type & financial eligibility & are selected for their educational value to the student-lawyers. The office operates year-round but only accepts cases during the academic year."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.339065,
+          40.03864168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Widener University Delaware Law School, Clinical Programs",
+        "Legal Service": "Clinical legal education program providing legal services.",
+        "Area of Practice": "Environmental law clinic addressing permits, pollution, land use, and zoning; Veterans law clinic providing free representation for veterans appealing denied compensation claims to the Board of Veterans Appeals and federal courts.",
+        "Address": "4601 Concord Pike\nWilmington, DE 19803",
+        "Nearest SEPTA Station": "N/A",
+        "Nearest Line(s)": "N/A",
+        "lat": 39.81754755,
+        "long": -75.54645778,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Under-represented individuals",
+        "Business Type": "Law School Clinic",
+        "Business Phone Number": "(302) 477-2162",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Academic Calendar Dependent / Appointment Only",
+        "Tuesday": "Academic Calendar Dependent / Appointment Only",
+        "Wednesday": "Academic Calendar Dependent / Appointment Only",
+        "Thursday": "Academic Calendar Dependent / Appointment Only",
+        "Friday": "Academic Calendar Dependent / Appointment Only",
+        "Saturday": "Academic Calendar Dependent / Appointment Only",
+        "url": "https://delawarelaw.widener.edu/current-students/jd-academics/experiential-courses/clinics/",
+        "Other": "By phone, Monday through Friday 9:30am – 5pm. Client will speak with Clinic Director about situation to determine if Clinic can assist client."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.54645778,
+          39.81754755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Women Against Abuse Center",
+        "Legal Service": "Free legal services for domestic violence victims relating to protection from abuse, custody, and support matters.",
+        "Area of Practice": "Domestic violence, PFA, custody and support",
+        "Address": "100 South Broad Street\n5th Floor\nPhiladelphia, PA 19110",
+        "Nearest SEPTA Station": "City Hall Station",
+        "Nearest Line(s)": "Broad Street Line, Market-Frankford Line",
+        "lat": 39.95053144,
+        "long": -75.16442892,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Victims of abuse",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 686-7082",
+        "Email": "N/A",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": true,
+        "Monday": "9:00am-5:00pm",
+        "Tuesday": "9:00am-5:00pm",
+        "Wednesday": "9:00am-5:00pm",
+        "Thursday": "9:00am-5:00pm",
+        "Friday": "9:00am-5:00pm",
+        "Saturday": "N/A",
+        "url": "http://www.womenagainstabuse.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16442892,
+          39.95053144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Women's Law Project",
+        "Legal Service": "Litigation, direct representation, policy advocacy, and public education to advance the rights of women, girls, and LGBTQ+ individuals in Pennsylvania and beyond.",
+        "Area of Practice": "Reproductive rights, abortion access, gender and pregnancy discrimination, sexual harassment, equal pay, athletic equity, and court reform. Does not handle divorce, custody, or protection from abuse matters.",
+        "Address": "125 S. 9th Street\nSuite 300\nPhiladelphia, PA 19107",
+        "Nearest SEPTA Station": "8th St Station",
+        "Nearest Line(s)": "Market-Frankford Line",
+        "lat": 39.94905397,
+        "long": -75.15523779,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Women in need of support",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(215) 928-9801",
+        "Email": "info@womenslawproject.org",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "12:00pm-2:00pm",
+        "Tuesday": "9:00am-11am",
+        "Wednesday": "N/A",
+        "Thursday": "3:00pm-5:00pm",
+        "Friday": "12:00pm-2:00pm",
+        "Saturday": "N/A",
+        "url": "https://www.womenslawproject.org/",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15523779,
+          39.94905397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Youth Sentencing & Reentry Project (YSRP)",
+        "Legal Service": "Legal advocacy and direct services for youth prosecuted as adults and juvenile lifers, including mitigation, resentencing, reentry support, and connections to education, healthcare, housing, and employment resources.",
+        "Area of Practice": "Serves low-income youth and juvenile lifers in Philadelphia, Delaware, and Montgomery Counties who qualify for public defense services but are represented by court-appointed counsel.",
+        "Address": "1528 Walnut Street\nSuite 515\nPhiladelphia, PA 19102",
+        "Nearest SEPTA Station": "Walnut–Locust Station",
+        "Nearest Line(s)": "Broad Street Line",
+        "lat": 39.94959499,
+        "long": -75.16734093,
+        "Language (Bilingual or more) Yes/No": false,
+        "Targeted Community": "Low-income youth",
+        "Business Type": "Nonprofit",
+        "Business Phone Number": "(267) 703-8046",
+        "Email": "info@ysrp.org",
+        "Office Walk-ins (yes/no)": false,
+        "24/7 Hotline (yes/no)": false,
+        "Monday": "Variable Off-Site Clinics / Direct Referral.",
+        "Tuesday": "Variable Off-Site Clinics / Direct Referral.",
+        "Wednesday": "Variable Off-Site Clinics / Direct Referral.",
+        "Thursday": "Variable Off-Site Clinics / Direct Referral.",
+        "Friday": "Variable Off-Site Clinics / Direct Referral.",
+        "Saturday": "Variable Off-Site Clinics / Direct Referral.",
+        "url": "N/A",
+        "Other": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16734093,
+          39.94959499
+        ]
+      }
+    }
+  ]
+}
